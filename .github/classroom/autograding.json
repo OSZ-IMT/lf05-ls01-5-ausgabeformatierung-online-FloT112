@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "testAufgabe1",
+      "setup": "",
+      "run": "gradle test --tests TestAusgabenformatierung.testAufgabe1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "testAufgabe2",
+      "setup": "",
+      "run": "gradle test --tests TestAusgabenformatierung.testAufgabe2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testAufgabe3Head",
+      "setup": "",
+      "run": "gradle test --tests TestAusgabenformatierung.testAufgabe3Head",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "testAufgabe3Pos",
+      "setup": "",
+      "run": "gradle test --tests TestAusgabenformatierung.testAufgabe3Pos",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "testAufgabe3Neg",
+      "setup": "",
+      "run": "gradle test --tests TestAusgabenformatierung.testAufgabe3Neg",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    }
+  ]
+}
