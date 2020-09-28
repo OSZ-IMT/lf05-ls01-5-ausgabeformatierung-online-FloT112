@@ -30,7 +30,6 @@ public class Ausgabenformatierung {
       System.out.println("*      *");
       System.out.println("   **   ");
       
-
     }
 
     public static void aufgabe2(){
